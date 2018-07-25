@@ -16,6 +16,7 @@ var/
 *.egg-info/
 .installed.cfg
 *.egg
+.requirements/
 
 # Serverless directories
 .serverless
